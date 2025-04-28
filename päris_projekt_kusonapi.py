@@ -1,6 +1,5 @@
 import requests
 import json
-import re
 
 eesmark = input("Mis on sinu treeningu eesmärk? (nt kaalulangetus, lihaskasv, vastupidavus): ")
 paevad_nadalas = input("Mitu päeva nädalas soovid treenida?: ")
@@ -65,5 +64,6 @@ if response.status_code == 200:
 else:
     print(f"Tekkis viga: {response.status_code}")
     print(response.text)
-#
-#
+
+
+#jap jap
