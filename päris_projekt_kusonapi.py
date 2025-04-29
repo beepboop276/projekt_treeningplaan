@@ -6,7 +6,7 @@ paevad_nadalas = input("Mitu päeva nädalas soovid treenida?: ")
 treeningu_kestus = input("Kui pikad peaksid treeningud olema? (minutites): ")
 muud_soovid = input("Kas on muid erisoove või piiranguid? (nt vigastused, treeningvarustus, kodus/saalis): ")
 
-api_voti = "siia"  
+api_voti = "SIIA!!!!!"  
 url = "https://openrouter.ai/api/v1/chat/completions"  
 
 headers = {
